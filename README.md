@@ -19,3 +19,8 @@ pip install -r requirements.txt
 yarn start
 python fuzzer.py
 ```
+
+## Remaining tasks
+- Detect crash
+- Select chrome version
+- Support linux, windows
